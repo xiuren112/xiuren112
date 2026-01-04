@@ -18,7 +18,7 @@ I love coding, learning new technologies, and building projects in multiple lang
 
 ## GitHub Stats
 
-![Xiuren GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiuren112&show_icons=true&theme=tokyonight&count_private=true&hide=prs)
+![Xiuren GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiuren112&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiuren112&layout=compact&theme=tokyonight)
 
